@@ -1,0 +1,36 @@
+1. Sistemas de Información Empresarial
+Enterprise Resource Planning (ERP): Software de gestión empresarial que integra todos los procesos clave de una empresa.
+Customer Relationship Management (CRM): Herramienta para gestionar las relaciones con los clientes y analizar datos.
+Supply Chain Management (SCM): Sistemas para gestionar la cadena de suministro.
+Business Intelligence (BI): Herramientas de análisis de datos para la toma de decisiones.
+Human Resource Management System (HRMS): Sistema para gestionar las funciones de recursos humanos, como contratación, nómina, etc.
+2. Sistemas de Información Geográfica (SIG)
+ArcGIS: Plataforma para el análisis espacial y la gestión de información geográfica.
+QGIS: Software de código abierto para análisis geoespacial.
+Google Earth Engine: Herramienta para análisis de datos geoespaciales y visualización a escala global.
+ERDAS IMAGINE: Software especializado en procesamiento de imágenes satelitales y análisis geoespacial.
+GRASS GIS: Sistema de información geográfica avanzado para modelado y análisis geoespacial.
+3. Sistemas de Información en la Nube
+Google Workspace: Conjunto de aplicaciones de productividad basadas en la nube.
+Microsoft 365: Suite de productividad y colaboración en la nube de Microsoft.
+Amazon Web Services (AWS): Plataforma de servicios de nube para empresas de todos los tamaños.
+Dropbox: Plataforma de almacenamiento en la nube y colaboración en línea.
+Salesforce: Plataforma CRM basada en la nube, ahora también con funcionalidades de IA.
+4. Sistemas de Información de Salud
+Electronic Health Records (EHR): Registros electrónicos de salud para almacenar y compartir datos de pacientes.
+Telemedicina: Plataformas que permiten consultas médicas a distancia.
+Health Information Management Systems (HIMS): Sistemas para gestionar la información clínica y administrativa en hospitales.
+Epic Systems: Sistema utilizado en hospitales y clínicas para gestionar historiales médicos.
+Cerner: Proveedor de software de registros médicos electrónicos y gestión de la salud.
+5. Sistemas de Información Financiera
+QuickBooks: Software de contabilidad y gestión financiera.
+Xero: Plataforma de contabilidad en línea para pequeñas empresas.
+Sage 50cloud: Software de contabilidad con integración en la nube.
+Stripe: Plataforma para la gestión de pagos en línea, que incluye sistemas de análisis financiero.
+Plaid: Herramienta que conecta las cuentas bancarias con aplicaciones para mejorar la gestión financiera.
+6. Sistemas de Información en la Educación
+Learning Management Systems (LMS): Plataformas para la gestión y administración de cursos (por ejemplo, Moodle, Blackboard).
+Google Classroom: Herramienta para gestionar las actividades educativas de manera remota.
+Edmodo: Plataforma para la comunicación entre estudiantes y maestros, además de gestionar tareas.
+Kahoot!: Plataforma de gamificación para mejorar la educación mediante juegos interactivos.
+Coursera: Plataforma de aprendizaje en línea que ofrece cursos, especializaciones y títulos de universidades.

@@ -1,0 +1,60 @@
+7. Sistemas de Información para el Comercio Electrónico
+Shopify: Plataforma para la creación de tiendas en línea, con herramientas de pago y gestión de inventarios.
+Magento: Solución de comercio electrónico de código abierto para empresas de todos los tamaños.
+WooCommerce: Plugin de WordPress que convierte cualquier sitio en una tienda en línea.
+BigCommerce: Plataforma de comercio electrónico basada en la nube para ventas en línea.
+Salesforce Commerce Cloud: Solución de comercio electrónico que integra el análisis y la gestión de datos de clientes.
+8. Sistemas de Información de Gestión de Proyectos
+Asana: Plataforma de gestión de proyectos que ayuda a los equipos a coordinar y realizar un seguimiento de su trabajo.
+Trello: Herramienta visual para la gestión de proyectos, basada en tableros y listas.
+Microsoft Project: Software robusto de gestión de proyectos que ofrece planes detallados y cronogramas.
+Monday.com: Plataforma colaborativa para gestión de proyectos y seguimiento de tareas.
+Wrike: Herramienta de gestión de proyectos que facilita la colaboración y la planificación de tareas en equipo.
+9. Sistemas de Información de Marketing Digital
+Google Analytics: Plataforma para analizar datos web y generar informes sobre el tráfico y las conversiones en un sitio web.
+HubSpot: Herramienta todo-en-uno para automatización del marketing, gestión de contenido y relaciones con los clientes.
+Mailchimp: Plataforma de marketing por correo electrónico y automatización de marketing.
+Hootsuite: Herramienta para gestionar redes sociales, programar publicaciones y analizar interacciones.
+SEMrush: Plataforma de análisis SEO y marketing de contenido que ayuda a mejorar el rendimiento en motores de búsqueda.
+10. Sistemas de Información de Seguridad Informática
+Norton Security: Software de protección contra virus, malware y otras amenazas cibernéticas.
+McAfee: Plataforma de seguridad informática que protege dispositivos contra amenazas externas.
+Splunk: Plataforma de análisis de seguridad que utiliza datos de logs para detectar anomalías y amenazas.
+CrowdStrike: Solución avanzada de protección contra ciberataques que usa inteligencia artificial y machine learning.
+Fortinet: Proveedor de sistemas de seguridad como firewalls, VPN y protección contra ataques DDoS.
+11. Sistemas de Información en la Gestión de la Cadena de Suministro
+SAP Supply Chain Management: Herramienta que ayuda a gestionar todos los aspectos de la cadena de suministro desde la planificación hasta la ejecución.
+Oracle SCM Cloud: Solución en la nube para optimizar la cadena de suministro mediante análisis en tiempo real y predicciones.
+Kinaxis RapidResponse: Plataforma de gestión de la cadena de suministro en tiempo real que utiliza inteligencia artificial.
+JDA Software: Ofrece soluciones para la planificación, ejecución y control de la cadena de suministro.
+Infor Supply Chain: Sistema que optimiza las operaciones logísticas, la planificación y la distribución.
+12. Sistemas de Información en la Gestión del Conocimiento
+Confluence: Herramienta de colaboración para la creación de contenido y gestión de documentos empresariales.
+SharePoint: Plataforma de colaboración que permite almacenar, organizar y compartir información dentro de la empresa.
+Evernote Business: Aplicación para gestionar notas, tareas y archivos dentro de un equipo de trabajo.
+Slack: Plataforma de comunicación empresarial que fomenta la colaboración y el intercambio de información.
+Notion: Sistema de organización de tareas y bases de datos que facilita el manejo de información compartida.
+13. Sistemas de Información para la Gestión de Relaciones con los Clientes (CRM)
+Salesforce: Uno de los CRM más conocidos, con un conjunto completo de herramientas para gestión de ventas, marketing y soporte.
+Zoho CRM: Plataforma que permite gestionar las relaciones con los clientes, ventas, marketing y soporte en un solo lugar.
+Pipedrive: CRM fácil de usar centrado en la gestión de ventas y en la optimización de los embudos de ventas.
+HubSpot CRM: Plataforma gratuita de CRM que facilita la gestión de relaciones con los clientes y automatización de marketing.
+Microsoft Dynamics 365: CRM que ayuda a gestionar las relaciones con los clientes mediante inteligencia artificial y automatización.
+14. Sistemas de Información para la Inteligencia Artificial y Análisis de Datos
+IBM Watson: Plataforma de inteligencia artificial que ofrece herramientas de análisis predictivo y machine learning.
+Google AI: Conjunto de herramientas para el desarrollo y despliegue de modelos de inteligencia artificial en la nube.
+Tableau: Herramienta de visualización de datos y análisis de inteligencia empresarial para obtener información valiosa a partir de grandes volúmenes de datos.
+Microsoft Power BI: Plataforma para la creación de informes interactivos y paneles de control basados en análisis de datos.
+SAS: Software de análisis avanzado que utiliza estadísticas y algoritmos para extraer patrones de grandes volúmenes de datos.
+15. Sistemas de Información de Internet de las Cosas (IoT)
+ThingSpeak: Plataforma para recoger, almacenar, analizar y visualizar datos generados por dispositivos IoT.
+Losant: Plataforma IoT que permite el desarrollo de aplicaciones empresariales basadas en la recopilación y análisis de datos IoT.
+IBM Watson IoT: Conjunto de herramientas que facilita la conexión, gestión y análisis de dispositivos IoT.
+AWS IoT: Plataforma de Amazon Web Services para conectar dispositivos IoT y analizar los datos generados.
+Particle: Plataforma de IoT que permite la creación de aplicaciones utilizando dispositivos conectados y sus datos.
+16. Sistemas de Información de Recursos Humanos
+Workday: Solución de gestión de recursos humanos que cubre desde la contratación hasta la nómina.
+ADP Workforce Now: Sistema que ayuda a gestionar la nómina, los beneficios y la administración de recursos humanos.
+SuccessFactors: Herramienta de SAP que ofrece soluciones de gestión del talento, desarrollo de empleados y administración de desempeño.
+BambooHR: Plataforma de recursos humanos basada en la web que facilita la gestión de empleados y sus datos.
+Zenefits: Sistema de recursos humanos en la nube que facilita la administración de beneficios, nómina y el cumplimiento de regulaciones.
